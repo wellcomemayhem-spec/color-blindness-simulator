@@ -8,7 +8,8 @@ h1 { text-align: center; }
 main { width: 80%; margin: 0 auto; }
 
 /* Style for canvas element with border and center alignment */
-canvas { border: 1px solid black; display: block; margin: 20px auto; } /* Ensures canvas stands out and is easily accessible */
+/* Ensures canvas stands out and is easily accessible */
+canvas { border: 1px solid black; display: block; margin: 20px auto; }
 
 /* Button margin and padding settings */
 button { margin: 10px; padding: 10px 15px; }
