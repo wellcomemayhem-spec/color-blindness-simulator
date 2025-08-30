@@ -15,3 +15,5 @@ canvas { border: 1px solid black; display: block; margin: 20px auto; }
 button { margin: 10px; padding: 10px 15px; }
 
 /* Additional styles for aesthetic enhancements - Add any new styles below this line */
+/* Button hover effect for better user interaction */
+button:hover { background-color: #f0f0f0; }
